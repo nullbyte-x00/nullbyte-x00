@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=180&section=header&text=nullbyte-x00&fontSize=50&fontColor=00ff41&animation=fadeIn" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=110&section=header&text=nullbyte-x00&fontSize=28&fontColor=00ff41&fontAlignY=40" />
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm51cDkyMHQxZmdrcXRyOHdlb2o4OGZ1cWV1ZDJsN2FnZmZ2dGE5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kl3VSpDkwCYTK/giphy.gif" width="480" />
 
 <br>
