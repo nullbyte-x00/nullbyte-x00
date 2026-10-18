@@ -21,7 +21,7 @@
 ```bash
 user      : nullbyte-x00
 focus     :  tomboys
-learning  :  still alive - black hat 
+learning  :  still alive  
 status    : [ONLINE]
 ```
 
