@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=root@nullbyte:~%23+whoami;Aprendiz+de+seguridad+ofensiva;Break+things.+Learn+how.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=root@nullbyte:~%23+whoami;just+a+tech." />
 
 <br>
 
