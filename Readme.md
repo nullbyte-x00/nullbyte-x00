@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=90&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a84ff&height=90&section=header" />
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm51cDkyMHQxZmdrcXRyOHdlb2o4OGZ1cWV1ZDJsN2FnZmZ2dGE5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kl3VSpDkwCYTK/giphy.gif" width="480" />
 
@@ -21,8 +21,8 @@
    |o_o |       -------------------
    |:_/ |       role     : just a tech
   //   \ \      focus    : tomboys
- (|     | )     learning : still alive 
-/'\_   _/`\     status   : [horny]
+ (|     | )     learning : still alive - black hat
+/'\_   _/`\     status   : [ONLINE]
 \___)=(___/
 ```
 
@@ -51,5 +51,5 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a84ff&height=100&section=footer" />
 </div>
