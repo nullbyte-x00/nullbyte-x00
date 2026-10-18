@@ -19,12 +19,11 @@
 ```bash
     .--.        nullbyte-x00@github
    |o_o |       -------------------
-   |:_/ |       os       : linux (btw)
-  //   \ \      role     : just a tech
- (|     | )     shell    : bash
-/'\_   _/`\     focus    : tomboys
-\___)=(___/     learning : still alive - black hat
-                status   : [ONLINE]
+   |:_/ |       role     : just a tech
+  //   \ \      focus    : tomboys
+ (|     | )     learning : still alive 
+/'\_   _/`\     status   : [horny]
+\___)=(___/
 ```
 
 ## `> ls tools/`
