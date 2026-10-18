@@ -11,7 +11,6 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/WINDOWS_HATER-000000?style=for-the-badge&logo=windows&logoColor=ff0033" />
-<img src="https://img.shields.io/badge/OS-LINUX_(BTW)-000000?style=for-the-badge&logo=linux&logoColor=00ff41" />
 
 </div>
 
@@ -32,14 +31,13 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,laravel,angular,mysql,linux,bash,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,laravel,angular,mysql,postgres,linux,bash,git&theme=dark" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=FF6633" />
-<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=2596cd" />
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff41" />
-<img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=maltego&logoColor=00ff41" />
+<img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="48" height="48" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/metasploit/2596cd" width="48" height="48" />
 
 </div>
 
@@ -55,14 +53,4 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=100&section=footer" />
-</div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2500&color=00FF41&center=true&vCenter=true&width=520&lines=%22The+quieter+you+become,;the+more+you+are+able+to+hear.%22" />
-
-<sub>— Ram Dass</sub>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=120&section=footer&text=stay%20curious&fontSize=16&fontColor=000000&fontAlignY=70" />
 </div>
