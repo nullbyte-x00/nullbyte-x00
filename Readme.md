@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=110&section=header&text=nullbyte-x00&fontSize=28&fontColor=00ff41&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=90&section=header" />
+
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm51cDkyMHQxZmdrcXRyOHdlb2o4OGZ1cWV1ZDJsN2FnZmZ2dGE5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kl3VSpDkwCYTK/giphy.gif" width="480" />
 
 <br>
@@ -20,7 +21,7 @@
 ```bash
 user      : nullbyte-x00
 focus     :  tomboys
-learning  :  still alive  
+learning  :  still alive - black hat 
 status    : [ONLINE]
 ```
 
@@ -35,6 +36,7 @@ status    : [ONLINE]
 <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=FF6633" />
 <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=maltego&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=2596cd" />
 
 </div>
 
