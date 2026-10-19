@@ -21,8 +21,8 @@
    |o_o |       -------------------
    |:_/ |       role     : pussy breaker
   //   \ \      focus    : tomboys
- (|     | )     learning : still alive - black hat
-/'\_   _/`\     status   : [ONLINE]
+ (|     | )     learning : still alive 
+/'\_   _/`\     status   : [horny]
 \___)=(___/
 ```
 
