@@ -19,7 +19,7 @@
 ```bash
     .--.        nullbyte-x00@github
    |o_o |       -------------------
-   |:_/ |       role     : just a tech
+   |:_/ |       role     : pussy breaker
   //   \ \      focus    : tomboys
  (|     | )     learning : still alive - black hat
 /'\_   _/`\     status   : [ONLINE]
