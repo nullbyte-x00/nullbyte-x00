@@ -26,7 +26,7 @@
 \___)=(___/
 ```
 
-## `> ls tools/`
+## `> ls some-tools/`
 
 <div align="center">
 
